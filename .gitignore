@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Environment secrets — NEVER commit this
+.env
+
+# Build artefacts
+temp/
+test_esp/build/
+
+# Vendored editor (too large for git history)
+public/monaco/
+
+# OS files
+.DS_Store
+Thumbs.db
